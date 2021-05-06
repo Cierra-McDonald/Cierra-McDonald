@@ -15,7 +15,7 @@ Hello there! I'm a Full Stack JavaScript Engineer with a weakness for a good pun
   <b>Version Control</b>: GitHub<br/>
   <b>Tools</b>: Git, Slack, Netlify, Heroku, VS Code, Postman, Postico<br/>
   <b>Dev Practices</b>: TDD, Pair Programming<br/>
-  <b>Databases</b>: Postgres|SQL<br/>
+  <b>Databases</b>: PostgreSQL<br/>
   <b>Testing</b>: Jest, Supertest, TravisCI, GitHub CI<br/>
 </p>
 
