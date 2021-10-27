@@ -21,7 +21,8 @@ Hello there! I'm a Full Stack JavaScript Engineer with a weakness for a good pun
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=Cierra-McDonald&show_icons=true&theme=radical"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cierra-McDonald&layout=compact&theme=radical">
 </p>
 
 
