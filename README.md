@@ -9,13 +9,13 @@ Hello there! I'm a Full Stack JavaScript Engineer with a weakness for a good pun
 <h2 align="center">Tech Stack:</h2>
 
 <p align="center">
-  <b>Languages</b>: JavaScript, HTML, CSS
+  <b>Languages</b>: JavaScript, Go, HTML, CSS
 <br/>
-  <b>Frameworks/Libraries</b>: React, Express, Node, BootStrap<br/>
+  <b>Frameworks/Libraries</b>: React, React Native, Express, Node, BootStrap<br/>
   <b>Version Control</b>: GitHub<br/>
   <b>Tools</b>: Git, Slack, Netlify, Heroku, VS Code, Postman, Postico<br/>
   <b>Dev Practices</b>: TDD, Pair Programming<br/>
-  <b>Databases</b>: PostgreSQL<br/>
+  <b>Databases</b>: PostgreSQL, MySQL<br/>
   <b>Testing</b>: Jest, Supertest, GitHub CI<br/>
 </p>
 
