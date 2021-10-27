@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 <img width="700" height="200" src="https://user-images.githubusercontent.com/74944576/117220990-3c7a3c00-adbd-11eb-80bf-9fcb8cbac70b.png">
-</p>
+</div>
 
 <h1 align="center">About Me:</h1>
 Hello there! I'm a Full Stack JavaScript Engineer with a weakness for a good pun joke.  I am a hard-working, self-driven individual who loves to solve human-related problems in creative ways.  
