@@ -12,7 +12,7 @@ Hello there! I'm a Full Stack JavaScript Engineer with a weakness for a good pun
   <b>Languages</b>: JavaScript, Go, HTML, CSS
 <br/>
   <b>Frameworks/Libraries</b>: React, React Native, Express, Node, BootStrap<br/>
-  <b>Version Control</b>: GitHub<br/>
+  <b>Version Control</b>: Git<br/>
   <b>Tools</b>: Git, Slack, Netlify, Heroku, VS Code, Postman, Postico<br/>
   <b>Dev Practices</b>: TDD, Pair Programming<br/>
   <b>Databases</b>: PostgreSQL, MySQL<br/>
